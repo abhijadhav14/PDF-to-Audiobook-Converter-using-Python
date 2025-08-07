@@ -1,2 +1,10 @@
-# PDF-to-Audiobook-Converter-using-Python
-A simple Python script that reads a PDF file and converts its text content into an MP3 audio file using PyPDF2 and pyttsx3. Ideal for turning eBooks or study materials into audiobooks.
+# 📚 PDF to Audiobook Converter
+
+This Python script allows you to convert any text-based PDF into an audiobook (MP3 format). It uses the `PyPDF2` library to extract text and `pyttsx3` to convert the text into speech.
+
+## 🔧 Features
+
+- Converts PDF pages to audio
+- Saves the audio as an MP3 file
+- Local TTS engine (offline)
+- Lightweight and easy to use
